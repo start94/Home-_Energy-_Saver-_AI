@@ -35,7 +35,7 @@ bash
 
 # 3. Install dependencies
 bash
-1 pip install
+1 pip install -r requirements.txt
 
 # 4. Train the model (generates dataset and saves the model)
  bash 
